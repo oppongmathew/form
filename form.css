@@ -1,0 +1,57 @@
+body{
+    background-color: #a52a2aee;
+    color:rgb(226, 234, 236);
+}
+
+
+label{
+    color:rgb(226, 234, 236);
+    text-transform: capitalize;
+    width: 240px;
+    display: inline-block;
+}
+
+
+span{
+    color:rgb(40, 153, 190);
+    padding: 10px;
+}
+
+
+button{
+    background-color:rgb(112, 112, 239);
+    border-style: solid;
+    border-radius: 100px;
+    border-color: rgb(112, 112, 239);
+}
+
+
+h1{
+    color:rgb(245, 246, 247);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-shadow: 2px 2px;
+    text-align: center;
+}
+
+
+h2{
+    color:rgb(245, 246, 247);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-shadow: 2px 2px;
+    text-align: center;
+} 
+
+
+h4{
+    color:rgb(245, 246, 247);
+    font-style: italic;
+    text-align: center;
+}
+
+
+div{
+    padding-left: 200px;
+}
+
